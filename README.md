@@ -4,7 +4,7 @@ A personal portfolio website showcasing my projects, technical skills, education
 
 ## 🌐 Live Demo
 
-Coming soon — the portfolio will be deployed on Vercel.
+https://anirban-portfolio-two.vercel.app/
 
 ## ✨ Features
 
